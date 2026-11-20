@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DG7fND7u/jo=",
+  "dgSpecHash": "C+Ndw9KjUb4=",
   "success": true,
   "projectFilePath": "C:\\Users\\mathias.granlund\\Documents\\Programering 2\\Vinterproject\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mathias.granlund\\.nuget\\packages\\raylib-cs\\8.1.0\\raylib-cs.8.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
