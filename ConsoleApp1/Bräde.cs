@@ -4,5 +4,5 @@ namespace ConsoleApp1;
 
 public class Bräde
 {
-    public List<Pjäs> pjäser = [new Pjäs(), new Pjäs()];
+    public List<Pjäs> pjäser = [new Pjäs(), new Pjäs(),new Pjäs(), new Pjäs(),new Pjäs(), new Pjäs(),new Pjäs(), new Pjäs(),new Pjäs(), new Pjäs(),new Pjäs(), new Pjäs(),new Pjäs(), new Pjäs(),new Pjäs(), new Pjäs()];
 }
